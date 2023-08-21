@@ -14,10 +14,6 @@ As someone deeply intrigued by the realm of cybersecurity, I'm constantly explor
 
 - **Cloud Computing**: The ethereal realms of cloud computing have captured my attention. From orchestrating secure deployments to understanding shared responsibility models, I'm delving into the cloud to harness its power while keeping security at the forefront.
 
-## Why This Repository?
-
-This space, Kyuery/README.md, serves as a hub for my cybersecurity escapades, Python explorations, and cloud computing endeavors. Here, you'll find a blend of insights, code snippets, and perhaps a few notes from my journey into the realm of digital fortification.
-
 ## Get Involved
 
 I'm thrilled to connect with fellow cybersecurity aficionados, Pythonistas, and cloud enthusiasts. Let's embark on this journey together! Feel free to explore my repository, engage in discussions, and contribute to my endeavors. Your insights and collaboration can light up the path towards a more secure digital future.
