@@ -1,4 +1,4 @@
-# Hello, I'm Kyu! 👋
+# Hello, I'm Kyu! 👋 
                                   
 Welcome to my cybersecurity 👨‍💻 focused corner in the digital realm. I'm a passionate enthusiast who finds joy in the intersections of cybersecurity 🛡️, Python 🐍, and a touch of cloud computing ☁️. 
     
